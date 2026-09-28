@@ -1,0 +1,9 @@
+GroupName,GroupScope,GroupCategory,Description,Department,SiteId
+GG-IT-France,Global,Security,Groupe IT France,IT,FR-PAR-01
+GG-HR-France,Global,Security,Groupe HR France,HR,FR-PAR-01
+GG-Finance-France,Global,Security,Groupe Finance France,Finance,FR-LYO-01
+GG-IT-Germany,Global,Security,Groupe IT Allemagne,IT,DE-FRA-01
+GG-Sales-UK,Global,Security,Groupe Sales Royaume-Uni,Sales,UK-LON-01
+GG-IT-USA,Global,Security,Groupe IT USA,IT,US-NYC-01
+GG-Management-Europe,Universal,Security,Groupe Management Europe,,
+GG-Management-Global,Universal,Security,Groupe Management Global,,

@@ -1,0 +1,7 @@
+Name,ParentPath,Description
+Company,,OU Racine Entreprise
+Users,OU=Company,Conteneur des utilisateurs globaux
+Groups,OU=Company,Conteneur des groupes de sécurité
+Computers,OU=Company,Conteneur des ordinateurs
+Service-Accounts,OU=Company,Comptes de service système
+Disabled-Objects,OU=Company,Comptes désactivés / Archivés

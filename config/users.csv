@@ -1,0 +1,8 @@
+EmployeeId,FirstName,LastName,SamAccountName,UserPrincipalName,DisplayName,Email,Department,JobTitle,Company,Country,Region,City,SiteId,Building,DepartmentOU,Enabled
+EMP001,Jean,Dupont,jdupont,jdupont@contoso.local,Jean Dupont,jdupont@contoso.local,IT,Infrastructure Manager,Contoso France,France,Europe,Paris,FR-PAR-01,Paris HQ,IT,TRUE
+EMP002,Marie,Martin,mmartin,mmartin@contoso.local,Marie Martin,mmartin@contoso.local,HR,HR Director,Contoso France,France,Europe,Paris,FR-PAR-01,Paris HQ,HR,TRUE
+EMP003,Pierre,Bernard,pbernard,pbernard@contoso.local,Pierre Bernard,pbernard@contoso.local,Finance,Financial Controller,Contoso France,France,Europe,Lyon,FR-LYO-01,Lyon Office,Finance,TRUE
+EMP004,Hans,Muller,hmuller,hmuller@contoso.local,Hans Muller,hmuller@contoso.local,IT,Systems Engineer,Contoso Germany,Germany,Europe,Frankfurt,DE-FRA-01,Frankfurt HQ,IT,TRUE
+EMP005,John,Smith,jsmith,jsmith@contoso.local,John Smith,jsmith@contoso.local,Sales,Sales Executive,Contoso UK,United Kingdom,Europe,London,UK-LON-01,London HQ,Sales,TRUE
+EMP006,Alice,Johnson,ajohnson,ajohnson@contoso.local,Alice Johnson,ajohnson@contoso.local,Operations,VP Operations,Contoso US,United States,North America,New York,US-NYC-01,New York HQ,Operations,TRUE
+EMP007,Ken,Tanaka,ktanaka,ktanaka@contoso.local,Ken Tanaka,ktanaka@contoso.local,Marketing,Marketing Specialist,Contoso Japan,Japan,Asia-Pacific,Tokyo,JP-TYO-01,Tokyo Office,Marketing,TRUE

@@ -1,0 +1,10 @@
+SiteId,Country,Region,City,Building,Description
+FR-PAR-01,France,Europe,Paris,Paris HQ,Siège France - Bâtiment Central
+FR-PAR-02,France,Europe,Paris,Paris R&D,Centre R&D Paris
+FR-LYO-01,France,Europe,Lyon,Lyon Office,Bureau régional Lyon
+DE-FRA-01,Germany,Europe,Frankfurt,Frankfurt HQ,Siège Allemagne
+UK-LON-01,United Kingdom,Europe,London,London HQ,Siège Royaume-Uni
+US-NYC-01,United States,North America,New York,New York HQ,Siège USA
+US-SFO-01,United States,North America,San Francisco,San Francisco Office,Bureau USA
+JP-TYO-01,Japan,Asia-Pacific,Tokyo,Tokyo Office,Bureau Japon
+SG-SIN-01,Singapore,Asia-Pacific,Singapore,Singapore Office,Bureau Asie
